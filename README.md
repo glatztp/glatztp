@@ -6,6 +6,11 @@
   <h4>Com uma combinação de habilidades, dedicação e um forte desejo de crescimento, estou confiante de que posso agregar valor em diversas equipes de trabalho. Estou empolgado para evoluir e expandir meus conhecimentos como desenvolvedor.</h4>
 </div>
 
+<!-- Contador de Visualizações -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=glatztp&color=ff0000&label=Visitantes&style=flat-square" alt="Visualizações do Perfil"/>
+</div>
+
 ## Ferramentas e Tecnologias 💻
 
 <div style="display: inline_block" align="center"><br>
@@ -19,9 +24,10 @@
 
 # 📊 GitHub Stats:
 
-[![](https://github-readme-stats.vercel.app/api?username=glatztp&theme=dark&hide_border=false&include_all_commits=true)]
-[![](https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false)]
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
+<div align="center">
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false)]
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
+</div>
 <br>
 <br>
 
@@ -52,5 +58,5 @@
   <a href="https://education.oracle.com/database-foundations/">
     <img src="https://img.shields.io/badge/-Database%20Foundations%20-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </a>
-  <br><br
+  <br><br>
 </p>
