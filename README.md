@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gabriel Glatz 🚀
+# Olá! Eu sou o Gabriel Glatz 😴
 
 <div>
   <h4>Olá, eu sou Gabriel Glatz! Bem-vindo(a) ao meu GitHub!</h4>
@@ -25,8 +25,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false)]
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 <br>
 <br>
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/-C-%2300598D?style=flat-square&logo=c&logoColor=white" alt="C"/>
   </p>
 </div>
-
+  
 ## Cursos realizados 🤓
 
 <p align="center">
