@@ -34,14 +34,22 @@
 ## Soft Skills 🤝
 
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/speech-bubble.png" alt="Comunicação" title="Comunicação"/>
-  <span>Comunicação</span>
-  <img src="https://img.icons8.com/ios-filled/50/000000/teamwork.png" alt="Trabalho em Equipe" title="Trabalho em Equipe"/>
-  <span>Trabalho em Equipe</span>
-  <img src="https://img.icons8.com/ios-filled/50/000000/problem-solving.png" alt="Resolução de Problemas" title="Resolução de Problemas"/>
-  <span>Resolução de Problemas</span>
-  <img src="https://img.icons8.com/ios-filled/50/000000/adaptability.png" alt="Adaptabilidade" title="Adaptabilidade"/>
-  <span>Adaptabilidade</span>
+  <span>
+    <img src="https://icons.getbootstrap.com/assets/icons/chat-square-text.svg" alt="Comunicação" title="Comunicação" width="30"/>
+    Comunicação
+  </span>
+  <span style="margin-left: 10px;">
+    <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" alt="Trabalho em Equipe" title="Trabalho em Equipe" width="30"/>
+    Trabalho em Equipe
+  </span>
+  <span style="margin-left: 10px;">
+    <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" alt="Resolução de Problemas" title="Resolução de Problemas" width="30"/>
+    Resolução de Problemas
+  </span>
+  <span style="margin-left: 10px;">
+    <img src="https://icons.getbootstrap.com/assets/icons/arrows-angle-contract.svg" alt="Adaptabilidade" title="Adaptabilidade" width="30"/>
+    Adaptabilidade
+  </span>
 </div>
 <br>
 
