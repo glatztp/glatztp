@@ -1,11 +1,11 @@
 # Olá! Eu sou o Gabriel Glatz 😴
 
 <div align="center">
-  <h2>✨ Bem-vindo(a) ao meu GitHub!</h2>
-  <p style="font-size: 18px; max-width: 800px; color: #555;">
+  <h2>Bem-vindo(a) ao meu GitHub!</h2>
+  <p style="font-size: 18px; max-width: 800px;">
     Sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades e sou Jovem Aprendiz no Grupo Malwee, buscando novos desafios e oportunidades para ser um bom profissional.
   </p>
-  <p style="font-size: 18px; max-width: 800px; color: #555;">
+  <p style="font-size: 18px; max-width: 800px;">
     Com uma combinação de habilidades, dedicação e um forte desejo de crescimento, estou confiante de que posso agregar valor em diversas equipes de trabalho. Estou empolgado para evoluir e expandir meus conhecimentos como desenvolvedor.
   </p>
   <br>
@@ -73,10 +73,9 @@
 ## 🎓 Cursos Realizados 🤓
 
 <p align="center">
-  <a href="https://education.oracle.com/database-foundations/" target="_blank">
+  <a href="https://education.oracle.com/database-foundations/">
     <img src="https://img.shields.io/badge/-Database%20Foundations%20-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Database Foundations" />
   </a>
 </p>
 
 ---
-
