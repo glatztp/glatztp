@@ -40,7 +40,7 @@
       </style>
 
       <div class="container">
-        <h1>Oi, eu sou o Gabriel Glatz! <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
