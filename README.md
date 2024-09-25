@@ -37,23 +37,8 @@
 - **Resolução de Problemas**: Abordagem analítica para identificar e solucionar desafios.
 - **Adaptabilidade**: Flexibilidade para se ajustar a novas situações e mudanças.
 
-<h1 align="center">Mídias Sociais</h1>
-<br>
-<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/glatz.tp/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://github.com/glatztp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-</a>
-</p>
-<br>
-<br>
+
 
 ## Eu estou estudando... 🧩
 
@@ -75,4 +60,20 @@
     <img src="https://img.shields.io/badge/-Database%20Foundations%20-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </a>
   <br><br>
+</p>
+
+
+##Mídias Sociais 📱
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/glatz.tp/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://github.com/glatztp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+</a>
 </p>
