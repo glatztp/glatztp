@@ -34,8 +34,6 @@
 
 <h1 align="center">Mídias Sociais</h1>
 <br>
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -49,7 +47,7 @@
 </a>
 </p>
 <br>
-<br>
+
 
 ## Eu estou estudando... 🧩
 
