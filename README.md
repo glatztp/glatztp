@@ -32,26 +32,10 @@
 <br>
 
 ## Soft Skills 🤝
-
-<div align="center">
-  <span style="font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/chat-square-text.svg" alt="Comunicação" title="Comunicação" width="24" style="vertical-align: middle; color: white;"/>
-    Comunicação
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" alt="Trabalho em Equipe" title="Trabalho em Equipe" width="24" style="vertical-align: middle; color: white;"/>
-    Trabalho em Equipe
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" alt="Resolução de Problemas" title="Resolução de Problemas" width="24" style="vertical-align: middle; color: white;"/>
-    Resolução de Problemas
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/arrows-angle-contract.svg" alt="Adaptabilidade" title="Adaptabilidade" width="24" style="vertical-align: middle; color: white;"/>
-    Adaptabilidade
-  </span>
-</div>
-<br>
+- **Comunicação**: Habilidade para expressar ideias de forma clara e eficaz.
+- **Trabalho em Equipe**: Capacidade de colaborar e contribuir para objetivos comuns.
+- **Resolução de Problemas**: Abordagem analítica para identificar e solucionar desafios.
+- **Adaptabilidade**: Flexibilidade para se ajustar a novas situações e mudanças.
 
 <h1 align="center">Mídias Sociais</h1>
 <br>
@@ -59,14 +43,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px;"/>
-  </a>
-  <a href="https://github.com/glatztp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/glatz.tp/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://github.com/glatztp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+</a>
 </p>
 <br>
 <br>
