@@ -31,6 +31,12 @@
 <br>
 <br>
 
+## Soft Skills 🤝
+- **Comunicação**: Habilidade para expressar ideias de forma clara e eficaz.
+- **Trabalho em Equipe**: Capacidade de colaborar e contribuir para objetivos comuns.
+- **Resolução de Problemas**: Abordagem analítica para identificar e solucionar desafios.
+- **Adaptabilidade**: Flexibilidade para se ajustar a novas situações e mudanças.
+
 <h1 align="center">Mídias Sociais</h1>
 <br>
 <br>
