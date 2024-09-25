@@ -1,18 +1,28 @@
 # Olá! Eu sou o Gabriel Glatz 😴
 
-<div>
-  <h4>Olá, eu sou Gabriel Glatz! Bem-vindo(a) ao meu GitHub!</h4>
+<div align="center">
+  <h2>Bem-vindo(a) ao meu GitHub!</h2>
   <h4>Sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades e sou Jovem Aprendiz no Grupo Malwee, buscando novos desafios e oportunidades para ser um bom profissional.</h4>
   <h4>Com uma combinação de habilidades, dedicação e um forte desejo de crescimento, estou confiante de que posso agregar valor em diversas equipes de trabalho. Estou empolgado para evoluir e expandir meus conhecimentos como desenvolvedor.</h4>
+  <br>
+  <a href="https://glatztp.github.io/perfil-gabriel-glatz/perfil_gabriel_glatz.html" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;">Meu Perfil Interativo</a>
 </div>
 
-## Visualização do Perfil
+---
 
-Para visualizar meu perfil interativo, clique no link abaixo:
+## 📈 Contador de Visualizações e Streak
 
-[Meu Perfil Interativo](https://glatztp.github.io/perfil-gabriel-glatz/perfil_gabriel_glatz.html)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=glatztp&color=ff0000&label=Visitantes&style=flat-square" alt="Visualizações do Perfil"/>
+</div>
 
-## Ferramentas e Tecnologias 💻
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false" alt="Streak Stats"/>
+</div>
+
+---
+
+## 💻 Ferramentas e Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -23,7 +33,9 @@ Para visualizar meu perfil interativo, clique no link abaixo:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
-## Mídias Sociais
+---
+
+## 🌐 Mídias Sociais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
@@ -37,7 +49,9 @@ Para visualizar meu perfil interativo, clique no link abaixo:
   </a>
 </p>
 
-## Estou Estudando... 🧩
+---
+
+## 📚 Estou Estudando... 🧩
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-%2335495e?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -48,10 +62,14 @@ Para visualizar meu perfil interativo, clique no link abaixo:
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## Cursos Realizados 🤓
+---
+
+## 🎓 Cursos Realizados 🤓
 
 <p align="center">
   <a href="https://education.oracle.com/database-foundations/">
     <img src="https://img.shields.io/badge/-Database%20Foundations%20-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Database Foundations"/>
   </a>
 </p>
+
+---
