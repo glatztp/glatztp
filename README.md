@@ -79,3 +79,30 @@
 </p>
 
 ---
+
+## 📊 Porcentagem de Linguagens de Programação
+
+<div align="center">
+  <svg width="400" height="200">
+    <rect x="0" y="20" width="80" height="30" fill="#3670A0" />
+    <text x="85" y="40" font-family="Arial" font-size="14">Python: 20%</text>
+    
+    <rect x="0" y="70" width="60" height="30" fill="#E34F26" />
+    <text x="65" y="90" font-family="Arial" font-size="14">HTML5: 15%</text>
+    
+    <rect x="0" y="120" width="50" height="30" fill="#1572B6" />
+    <text x="55" y="140" font-family="Arial" font-size="14">CSS3: 12%</text>
+    
+    <rect x="0" y="170" width="70" height="30" fill="#F7DF1E" />
+    <text x="75" y="190" font-family="Arial" font-size="14">JavaScript: 17%</text>
+    
+    <rect x="0" y="220" width="40" height="30" fill="#2B2728" />
+    <text x="45" y="240" font-family="Arial" font-size="14">C: 10%</text>
+    
+    <rect x="0" y="270" width="20" height="30" fill="#A50C0C" />
+    <text x="25" y="290" font-family="Arial" font-size="14">Java: 5%</text>
+    
+    <rect x="0" y="320" width="30" height="30" fill="#00599C" />
+    <text x="35" y="340" font-family="Arial" font-size="14">MicroPython: 6%</text>
+  </svg>
+</div>
