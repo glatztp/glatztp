@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 # 📊 GitHub Stats:
@@ -39,10 +40,16 @@
 
 <div align="center">
   <p>
-    Python | Java | C | MicroPython | HTML5 | CSS3 | SQL
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/micropython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython"/>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
   </p>
 </div>
-  
+
 ## Cursos realizados 🤓
 
 <p align="center">
