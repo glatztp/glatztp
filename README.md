@@ -32,10 +32,18 @@
 <br>
 
 ## Soft Skills 🤝
-- **Comunicação**: Habilidade para expressar ideias de forma clara e eficaz.
-- **Trabalho em Equipe**: Capacidade de colaborar e contribuir para objetivos comuns.
-- **Resolução de Problemas**: Abordagem analítica para identificar e solucionar desafios.
-- **Adaptabilidade**: Flexibilidade para se ajustar a novas situações e mudanças.
+
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/speech-bubble.png" alt="Comunicação" title="Comunicação"/>
+  <span>Comunicação</span>
+  <img src="https://img.icons8.com/ios-filled/50/000000/teamwork.png" alt="Trabalho em Equipe" title="Trabalho em Equipe"/>
+  <span>Trabalho em Equipe</span>
+  <img src="https://img.icons8.com/ios-filled/50/000000/problem-solving.png" alt="Resolução de Problemas" title="Resolução de Problemas"/>
+  <span>Resolução de Problemas</span>
+  <img src="https://img.icons8.com/ios-filled/50/000000/adaptability.png" alt="Adaptabilidade" title="Adaptabilidade"/>
+  <span>Adaptabilidade</span>
+</div>
+<br>
 
 <h1 align="center">Mídias Sociais</h1>
 <br>
@@ -43,14 +51,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/glatz.tp/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://github.com/glatztp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/glatztp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 <br>
 <br>
