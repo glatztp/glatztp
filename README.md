@@ -5,7 +5,6 @@
   <h4>Sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades e sou Jovem Aprendiz no Grupo Malwee, buscando novos desafios e oportunidades para ser um bom profissional.</h4>
   <h4>Com uma combinação de habilidades, dedicação e um forte desejo de crescimento, estou confiante de que posso agregar valor em diversas equipes de trabalho. Estou empolgado para evoluir e expandir meus conhecimentos como desenvolvedor.</h4>
   <br>
-  <a href="https://glatztp.github.io/perfil-gabriel-glatz/perfil_gabriel_glatz.html" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #007BFF; color: white; border-radius: 5px;">Meu Perfil Interativo</a>
 </div>
 
 ---
