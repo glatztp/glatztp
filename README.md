@@ -37,8 +37,16 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/glatz.tp/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://github.com/glatztp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+</a>
+</a>
 </p>
 <br>
 <br>
@@ -47,10 +55,13 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-Python-%2335495e?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/-C-%2300598D?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  </p>
+  <img src="https://img.shields.io/badge/-Python-%2335495e?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-C-%2300598D?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-MicroPython-%232B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython"/>
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 </div>
   
 ## Cursos realizados 🤓
