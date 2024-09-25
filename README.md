@@ -34,20 +34,20 @@
 ## Soft Skills 🤝
 
 <div align="center">
-  <span>
-    <img src="https://icons.getbootstrap.com/assets/icons/chat-square-text.svg" alt="Comunicação" title="Comunicação" width="30"/>
+  <span style="font-size: 20px; color: white;">
+    <img src="https://icons.getbootstrap.com/assets/icons/chat-square-text.svg" alt="Comunicação" title="Comunicação" width="24" style="vertical-align: middle;"/>
     Comunicação
   </span>
-  <span style="margin-left: 10px;">
-    <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" alt="Trabalho em Equipe" title="Trabalho em Equipe" width="30"/>
+  <span style="margin-left: 15px; font-size: 20px; color: white;">
+    <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" alt="Trabalho em Equipe" title="Trabalho em Equipe" width="24" style="vertical-align: middle;"/>
     Trabalho em Equipe
   </span>
-  <span style="margin-left: 10px;">
-    <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" alt="Resolução de Problemas" title="Resolução de Problemas" width="30"/>
+  <span style="margin-left: 15px; font-size: 20px; color: white;">
+    <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" alt="Resolução de Problemas" title="Resolução de Problemas" width="24" style="vertical-align: middle;"/>
     Resolução de Problemas
   </span>
-  <span style="margin-left: 10px;">
-    <img src="https://icons.getbootstrap.com/assets/icons/arrows-angle-contract.svg" alt="Adaptabilidade" title="Adaptabilidade" width="30"/>
+  <span style="margin-left: 15px; font-size: 20px; color: white;">
+    <img src="https://icons.getbootstrap.com/assets/icons/arrows-angle-contract.svg" alt="Adaptabilidade" title="Adaptabilidade" width="24" style="vertical-align: middle;"/>
     Adaptabilidade
   </span>
 </div>
