@@ -1,9 +1,8 @@
 # Olá! Eu sou o Gabriel Glatz 😴
 
 <div>
-  <h4>Olá, eu sou Gabriel Glatz! Bem-vindo(a) ao meu GitHub!</h4>
-  <h4>Sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades e sou Jovem Aprendiz no Grupo Malwee, buscando novos desafios e oportunidades para ser um bom profissional.</h4>
-  <h4>Com uma combinação de habilidades, dedicação e um forte desejo de crescimento, estou confiante de que posso agregar valor em diversas equipes de trabalho. Estou empolgado para evoluir e expandir meus conhecimentos como desenvolvedor.</h4>
+  <h4>Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e busco sempre aprimorar minhas habilidades.</h4>
+  <h4>Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor.</h4>
 </div>
 
 <!-- Contador de Visualizações -->
@@ -29,32 +28,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 <br>
-<br>
 
 ## Soft Skills 🤝
 
 <div align="center">
-  <span style="font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/chat-square-text.svg" alt="Comunicação" title="Comunicação" width="24" style="vertical-align: middle; color: white;"/>
-    Comunicação
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/person-fill.svg" alt="Trabalho em Equipe" title="Trabalho em Equipe" width="24" style="vertical-align: middle; color: white;"/>
-    Trabalho em Equipe
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/check-circle.svg" alt="Resolução de Problemas" title="Resolução de Problemas" width="24" style="vertical-align: middle; color: white;"/>
-    Resolução de Problemas
-  </span>
-  <span style="margin-left: 15px; font-size: 20px; color: white;">
-    <img src="https://icons.getbootstrap.com/assets/icons/arrows-angle-contract.svg" alt="Adaptabilidade" title="Adaptabilidade" width="24" style="vertical-align: middle; color: white;"/>
-    Adaptabilidade
-  </span>
+  <p style="color: white; font-size: 20px;">
+    Comunicação | Trabalho em Equipe | Resolução de Problemas | Adaptabilidade
+  </p>
 </div>
 <br>
 
 <h1 align="center">Mídias Sociais</h1>
-<br>
 <br>
 
 <p align="center">
@@ -69,19 +53,13 @@
   </a>
 </p>
 <br>
-<br>
 
 ## Eu estou estudando... 🧩
 
 <div align="center">
   <p>
-  <img src="https://img.shields.io/badge/-Python-%2335495e?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-C-%2300598D?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/-MicroPython-%232B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython"/>
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+    Python | Java | C | MicroPython | HTML5 | CSS3
+  </p>
 </div>
   
 ## Cursos realizados 🤓
@@ -90,5 +68,5 @@
   <a href="https://education.oracle.com/database-foundations/">
     <img src="https://img.shields.io/badge/-Database%20Foundations%20-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </a>
-  <br><br>
+  <br>
 </p>
