@@ -27,8 +27,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  <br><br>
-  ![](https://github-readme-stats.vercel.app/api?username=glatztp&theme=dark&hide_border=false&include_all_commits=true)
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?glatztp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 ## Soft Skills 🤝
