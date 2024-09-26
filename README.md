@@ -2,19 +2,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e busco sempre aprimorar minhas habilidades. Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor.</p>
+<p align="center">Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e busco sempre aprimorar minhas habilidades. Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -34,13 +34,13 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=glatztp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/Glatz x bru">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Glatz%20x%20bru&count=2&unique=false" alt="Spotify recently played"  />
   </a>
@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/glatztp/count.svg?"  />
 </div>
 
