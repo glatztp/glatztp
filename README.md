@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="https://github.com/glatztp">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?usarname=glatztp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glatztp&theme=dark&hide_border=false" alt="Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glatztp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=glatztp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ## Soft Skills 🤝
