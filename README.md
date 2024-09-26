@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">Viewrs👀</h3>
+<h3 align="center">Viewers👀</h3>
 
 ###
 
