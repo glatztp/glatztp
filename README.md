@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">Viewrs👀</h3>
+<h3 align="center">Viewrs👀</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">Social Media 📱</h3>
+<h3 align="center">Social Media 📱</h3>
 
 ###
 
