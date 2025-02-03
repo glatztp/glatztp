@@ -55,10 +55,10 @@
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://criarmeulink.com.br/u/1738626379" target="_blank">
+  <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://intagram/@glatz.tp/" target="_blank">
+  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
