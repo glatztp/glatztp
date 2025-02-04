@@ -1,18 +1,18 @@
 <h1 align="center">Olá! Eu sou o Gabriel Glatz 😴</h1>
 
-###
+
 
 <h2 align="center">👩‍💻  About Me</h2>
 
-###
+
 
 <p align="center">Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e busco sempre aprimorar minhas habilidades. Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor.</p>
 
-###
+
 
 <h2 align="center">🛠 Language and tools</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -32,11 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+
 
 <h2 align="center">🔥   My Stats :</h2>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=glatztp&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="168" alt="streak graph" /> <br>
@@ -45,11 +45,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+
 
 <h2 align="center">Social Media 📱</h2>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
@@ -63,22 +63,16 @@
   </a>
 </div>
 
-###
+
 
 <h2 align="center">Viewers 👀</h2>
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/glatztp/count.svg?"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Glatz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Glatz&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
+
