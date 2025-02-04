@@ -58,7 +58,7 @@
   <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
+  <a href="https://www.intagram.com/glatz.tp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -71,6 +71,14 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/glatztp/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Glatz x Bru">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Glatz%20x%20Bru&count=3" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
