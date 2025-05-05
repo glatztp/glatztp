@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👩‍💻 Sobre Mim</h2>
 
 ###
 
-<p align="center">Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e busco sempre aprimorar minhas habilidades. Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor.</p>
+<p align="center">Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no Grupo Malwee e estou sempre em busca de aprimorar minhas habilidades. Tenho confiança de que posso contribuir significativamente em diversas equipes e estou empolgado para evoluir cada vez mais como desenvolvedor.</p>
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="center">🔥 My Stats</h2>
+<h2 align="center">🔥 Meus Status</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="center">Social Media 📱</h2>
+<h2 align="center">Redes Sociais 📱</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
@@ -80,10 +80,8 @@
 
 ###
 
-<h2 align="center">Viewers 👀</h2>
+<h2 align="center">Visitantes 👀</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/glatztp/count.svg?"  />
 </div>
-
-###
