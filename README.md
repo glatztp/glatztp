@@ -8,9 +8,6 @@
   Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no <strong>Grupo Malwee</strong> e busco constantemente melhorar minhas habilidades. Acredito que posso contribuir muito em equipes diversas e estou super empolgado para continuar minha jornada como desenvolvedor. 🚀
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xJrK/giphy.gif" width="200" alt="animated" />
-</div>
 
 ###
 
