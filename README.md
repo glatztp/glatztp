@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=6&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
