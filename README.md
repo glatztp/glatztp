@@ -59,21 +59,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glatztp" height="200" alt="waka time stats" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
 <h2 align="center">Social Media 📱</h2>
-
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -81,11 +72,10 @@
   <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
+  <a href="https://www.intagram.com/glatz.tp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
 ###
 
 <h2 align="center">Viewers 👀</h2>
@@ -98,8 +88,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glatztp/glatztp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glatztp/glatztp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glatztp/glatztp/output/pacman-contribution-graph.svg">
-</picture>
+
