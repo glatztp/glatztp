@@ -1,18 +1,18 @@
-<h1 align="center">Olá! Eu sou o Gabriel Glatz 😴</h1>
+<h1 align="center">👋 Olá, eu sou o Gabriel Glatz 😴</h1>
 
----
+###
 
 <h2 align="center">👩‍💻 Sobre Mim</h2>
 
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; max-width: 800px; margin: 0 auto; padding: 0 10px;">
-  Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no <strong>Grupo Malwee</strong> e busco sempre aprimorar minhas habilidades. Estou confiante de que posso agregar valor em diversas equipes de trabalho e estou empolgado para evoluir como desenvolvedor. 🚀
+<p align="center">
+  Bem-vindo(a) ao meu GitHub! Sou Gabriel Glatz, apaixonado por tecnologia e programação. Atualmente, sou Jovem Aprendiz no <strong>Grupo Malwee</strong> e busco constantemente melhorar minhas habilidades. Acredito que posso contribuir muito em equipes diversas e estou super empolgado para continuar minha jornada como desenvolvedor. 🚀
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xJrK/giphy.gif" width="200" alt="animated" />
 </div>
 
----
+###
 
 <h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
@@ -28,7 +28,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
 </div>
 
----
+###
 
 <h2 align="center">🔥 Meus Status</h2>
 
@@ -45,26 +45,26 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=6&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
----
+###
 
-<h2 align="center">📱 Minhas Redes Sociais</h2>
+<h2 align="center">🌐 Conecte-se comigo</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank" title="Conecte-se comigo no LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank" title="Envia-me um email">
+  <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank" title="Siga-me no Instagram">
+  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-</div>
+</p>
 
----
+###
 
 <h2 align="center">👀 Visitantes</h2>
 
@@ -74,4 +74,6 @@
 
 ---
 
-<p align="center" style="font-size: 14px; color: gray;">Feito com 💙 por Gabriel Glatz</p>
+<p align="center">
+  <small>Feito com 💙 por Gabriel Glatz</small>
+</p>
