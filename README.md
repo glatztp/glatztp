@@ -72,4 +72,10 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
   </a>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/glatztp/glatztp/output/snake.svg" alt="Snake animation" />
+
+###
+
 
