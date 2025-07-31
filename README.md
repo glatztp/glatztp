@@ -58,9 +58,9 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
 
 
 <h2 align="center">👀 Visitantes</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/glatztp/count.svg?" alt="Visitor Counter" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=glatztp.glatztp&left_color=dimgray&right_color=dimgray"  />
+</div>
 
 <h2 align="center">🚀 Apoie meu trabalho</h2>
 
