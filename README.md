@@ -4,7 +4,7 @@
 <h2 align="center">👨‍💻 Sobre</h2>
 
 <p align="center">
-Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas. Atualmente, atuo como <strong>Jovem Aprendiz no Grupo Malwee</strong>, com foco em desenvolvimento web.<br>
+Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 Busco aprimorar constantemente minhas habilidades, estudando novas ferramentas, linguagens e boas práticas de desenvolvimento.<br>
 Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias em soluções reais.
 </p>
