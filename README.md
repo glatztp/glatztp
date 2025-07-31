@@ -35,7 +35,7 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=glatztp&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="166" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glatztp&locale=pt-br&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true" height="234" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glatztp&locale=pt-br&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=true" height="234" alt="Top Languages" />
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true" height="150" alt="GitHub Trophies" />
 </p>
