@@ -12,7 +12,7 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
 <h2 align="center">💻 Principais Linguagens</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,postgres,mysql" height="40" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,postgres" height="40" alt="Linguagens" />
 </p>
 
 <h2 align="center">⚙️ Frameworks & Ferramentas</h2>
