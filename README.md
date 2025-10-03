@@ -1,10 +1,10 @@
 <h1 align="center">Gabriel Glatz</h1>
-<p align="center"><em>Desenvolvedor de Software | Jovem Aprendiz no Grupo Malwee</em></p>
+<p align="center"><em>Desenvolvedor de Sistemas | Grupo Malwee</em></p>
 
 <h2 align="center">👨‍💻 Sobre</h2>
 
 <p align="center">
-Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas.
 Busco aprimorar constantemente minhas habilidades, estudando novas ferramentas, linguagens e boas práticas de desenvolvimento.<br>
 Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias em soluções reais.
 </p>
