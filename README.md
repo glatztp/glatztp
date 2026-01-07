@@ -57,10 +57,10 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
 
 
 
-<h2 align="center">👀 Visitantes</h2>
+<!-- <h2 align="center">👀 Visitantes</h2>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=glatztp.glatztp&left_color=dimgray&right_color=dimgray"  />
-</div>
+</div> -->
 
 <h2 align="center">🚀 Apoie meu trabalho</h2>
 
