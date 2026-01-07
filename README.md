@@ -28,7 +28,7 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="NPM" />
 </p>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<!-- <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=glatztp&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="185" alt="Streak Graph" />
@@ -38,7 +38,7 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glatztp&locale=pt-br&layout=compact&card_width=468&langs_count=8&theme=dark&hide_border=true" height="234" alt="Top Languages" />
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true" height="150" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <h2 align="center">🌐 Contato</h2>
 
