@@ -18,7 +18,7 @@ Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias 
 <h2 align="center">⚙️ Frameworks & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,arduino,docker" height="40" alt="Frameworks e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,docker" height="40" alt="Frameworks e Ferramentas" />
 </p>
 
 <h2 align="center">🛠️ Outras Ferramentas</h2>
