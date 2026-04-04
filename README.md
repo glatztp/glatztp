@@ -1,86 +1,45 @@
-<h1 align="center">Gabriel Glatz</h1>
-<p align="center"><em>Desenvolvedor de Sistemas | Grupo Malwee</em></p>
 
-<h2 align="center">👨‍💻 Sobre</h2>
+<h1 align="left">Gabriel Glatz</h1>
+<p align="left"><sub>DESENVOLVEDOR DE SISTEMAS · GRUPO MALWEE</sub></p>
 
-<p align="center">
-Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas.
-Busco aprimorar constantemente minhas habilidades, estudando novas ferramentas, linguagens e boas práticas de desenvolvimento.<br>
-Valorizo a colaboração, o aprendizado contínuo e a transformação de ideias em soluções reais.
+<p align="left">
+Desenvolvedor focado em automação, desenvolvimento web e soluções escaláveis para o ambiente corporativo.<br>
+Comprometido com boas práticas de engenharia e entrega de valor contínua.
 </p>
 
-<h2 align="center">💻 Principais Linguagens</h2>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,postgres" height="40" alt="Linguagens" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<h2 align="center">⚙️ Frameworks & Ferramentas</h2>
+**Linguagens**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,docker" height="40" alt="Frameworks e Ferramentas" />
-</p>
+![](https://skillicons.dev/icons?i=ts,js,python,html,css,postgres&perline=6)
 
-<h2 align="center">🛠️ Outras Ferramentas</h2>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" height="40" alt="Ferramentas" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="NPM" />
-</p>
+**Frameworks**
 
-<!-- <h2 align="center">📊 Estatísticas do GitHub</h2>
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,docker&perline=6)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=glatztp&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="185" alt="Streak Graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=glatztp&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="166" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glatztp&locale=pt-br&layout=compact&card_width=468&langs_count=8&theme=dark&hide_border=true" height="234" alt="Top Languages" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=glatztp&theme=dark_lover&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true" height="150" alt="GitHub Trophies" />
-</p> -->
+</td>
+</tr>
+</table>
 
-<h2 align="center">🌐 Contato</h2>
+<br>
 
-<div align="center">
-  <a href="mailto:gabrielfellipeglatz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-glatz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/glatz.tp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
-</div>
+**Ferramentas**
 
+![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=6)
+<img src="https://cdn.simpleicons.org/npm/CB3837" height="48" />
 
+<br><br>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielfellipeglatz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-glatz/)
 
-<!-- <h2 align="center">👀 Visitantes</h2>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=glatztp.glatztp&left_color=dimgray&right_color=dimgray"  />
-</div> -->
+<br>
 
-<h2 align="center">🚀 Apoie meu trabalho</h2>
-
-<p align="center">
-  Se você aprecia meus projetos ou deseja apoiar meu desenvolvimento profissional, considere ser um patrocinador.<br>
-  Toda contribuição é bem-vinda e incentiva a produção de novos conteúdos e projetos!
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/glatztp">
-    <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge" alt="Sponsor glatztp" />
-  </a>
-</p>
-
-<br clear="both">
-
-
-<img src="https://raw.githubusercontent.com/glatztp/glatztp/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-
+<img src="https://raw.githubusercontent.com/glatztp/glatztp/output/snake.svg" />
