@@ -1,8 +1,8 @@
+<div align="center">
+<h1>Gabriel Glatz</h1>
+<p><sub>DESENVOLVEDOR DE SISTEMAS · GRUPO MALWEE</sub></p>
 
-<h1 align="left">Gabriel Glatz</h1>
-<p align="left"><sub>DESENVOLVEDOR DE SISTEMAS · GRUPO MALWEE</sub></p>
-
-<p align="left">
+<p>
 Desenvolvedor focado em automação, desenvolvimento web e soluções escaláveis para o ambiente corporativo.<br>
 Comprometido com boas práticas de engenharia e entrega de valor contínua.
 </p>
@@ -35,11 +35,7 @@ Comprometido com boas práticas de engenharia e entrega de valor contínua.
 ![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=6)
 <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" />
 
-<br><br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielfellipeglatz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-glatz/)
-
-<br>
 
 <img src="https://raw.githubusercontent.com/glatztp/glatztp/output/snake.svg" />
+
+</div>
